@@ -1,0 +1,38 @@
+{
+  "selectedStitchProfileId": "luminous-finance",
+  "selectedRecipeId": "scheduling-platform-v1",
+  "projectCategory": "Scheduling / booking platform",
+  "designTarget": "Paper Finance — Stitch Luminous Finance — paper-warm surface, acid-green CTA accent",
+  "requiredRoutes": [
+    "/",
+    "/about",
+    "/app",
+    "/contact",
+    "/dashboard",
+    "/features",
+    "/how-it-works",
+    "/legal/privacy",
+    "/legal/terms",
+    "/onboarding",
+    "/pricing",
+    "/settings",
+    "/use-cases"
+  ],
+  "requiredSections": [
+    "hero",
+    "trust",
+    "about",
+    "services",
+    "how_it_works",
+    "work",
+    "pricing",
+    "contact"
+  ],
+  "requiredDashboardModules": [
+    "overview_metrics",
+    "recent_activity",
+    "quick_actions",
+    "upcoming_bookings"
+  ],
+  "validationStatus": "passed"
+}

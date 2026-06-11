@@ -1,0 +1,95 @@
+{
+  "product_category": "business_specific_web_product (scheduling_platform)",
+  "target_user": "consultants, service businesses, and busy teams",
+  "pages": [
+    "/",
+    "/about",
+    "/app",
+    "/contact",
+    "/dashboard",
+    "/features",
+    "/how-it-works",
+    "/legal/privacy",
+    "/legal/terms",
+    "/onboarding",
+    "/pricing",
+    "/settings",
+    "/use-cases"
+  ],
+  "homepage_sections": [
+    "hero",
+    "trust",
+    "about",
+    "services",
+    "how_it_works",
+    "work",
+    "pricing",
+    "contact"
+  ],
+  "design_archetype": {
+    "name": "Mercury",
+    "active": true,
+    "trust_block_rhythm": [
+      "product_preview",
+      "everything",
+      "customer_proof",
+      "capability_cards",
+      "efficiency",
+      "security_trust",
+      "metrics_trust"
+    ],
+    "trust_signal_style": "capability-framed, no fabricated certifications/press/customer counts",
+    "selectedStitchProfileId": "luminous-finance",
+    "selectedRecipeId": "scheduling-platform-v1",
+    "projectCategory": "Scheduling / booking platform",
+    "requiredRoutes": [
+      "/",
+      "/about",
+      "/app",
+      "/contact",
+      "/dashboard",
+      "/features",
+      "/how-it-works",
+      "/legal/privacy",
+      "/legal/terms",
+      "/onboarding",
+      "/pricing",
+      "/settings",
+      "/use-cases"
+    ],
+    "requiredHomepageSections": [
+      "hero",
+      "trust",
+      "about",
+      "services",
+      "how_it_works",
+      "work",
+      "pricing",
+      "contact"
+    ]
+  },
+  "design_direction": "Paper Finance — Stitch Luminous Finance — paper-warm surface, acid-green CTA accent",
+  "visual_rules": {
+    "background": "bg-[#f9f9f6]",
+    "surface": "bg-white",
+    "accent": "text-[#5d6300]",
+    "motion": "Immersive WebGL hero (HeroCanvas) on the homepage; Tailwind-driven layout elsewhere",
+    "avoid": [
+      "generic gradients",
+      "basic card grids",
+      "lorem ipsum",
+      "stock-photo hero imagery"
+    ]
+  },
+  "components_required": [
+    "AssistantWidget",
+    "HeroCanvas"
+  ],
+  "quality_requirements": [
+    "all routes in pages must exist as real files",
+    "homepage must explain this specific product, not a generic template",
+    "dashboard must show realistic product-specific states",
+    "no placeholder/lorem copy anywhere",
+    "mobile layout via Tailwind responsive classes on every page"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "generated_by": "arknet-forge",
+  "forge_version": "0.3.0",
+  "output_contract": "saas-web-business.v2",
+  "deployment_required": true,
+  "product_archetype": "scheduling_platform",
+  "design_style": "paper_finance",
+  "website_architecture": {
+    "category": "business_specific_web_product",
+    "layout": "Business-specific OJ/HumanAI style: thesis hero, exact user pain, proof, working first outcome, pricing, about, conversion CTA",
+    "required_sections": [
+      "specific hero",
+      "why it matters",
+      "what it does",
+      "proof",
+      "pricing",
+      "about",
+      "conversion CTA"
+    ],
+    "primary_cta": "Start the first result",
+    "visual_rule": "Derive visual system from the business category; do not default to ArkNet colors.",
+    "forbidden_language": [
+      "Try the live workflow",
+      "workflow studio",
+      "generic SaaS"
+    ]
+  },
+  "arknet_schema_version": "arknet-object.v1",
+  "source_object_id": "arknet_os_loop_blueprint_1781221469126",
+  "source_type": "idea",
+  "source_confidence": 0.8,
+  "repo_name": "ai-nonprofit-governance-platform-grant-compliance-copilot-proble",
+  "product_name": "AI Nonprofit Governance Platform",
+  "generated_at": "2026-06-11T23:44:30.150Z",
+  "tags": [
+    "repository-blueprint",
+    "ai"
+  ]
+}

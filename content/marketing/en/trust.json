@@ -1,0 +1,5 @@
+{
+  "social": "Built for consultants, service businesses, and busy teams who need a clear next action, not another dashboard.",
+  "technical": "Typed product engine (lib/product-engine.ts), working API routes, and a CI-ready smoke test (tests/smoke-test.mjs).",
+  "security": "Designed with sensible data-handling defaults — no fabricated certifications, press mentions, or customer counts."
+}
