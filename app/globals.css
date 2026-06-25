@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --design-primary: #f7fafc; --design-surface: #2576eb; --design-accent: #f8fafc; --design-muted: #94a3b8; }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--design-primary); }
+a { color: inherit; text-decoration: none; }

@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Product Output",
+  "type": "object",
+  "required": [
+    "title",
+    "summary",
+    "score",
+    "insights",
+    "actions",
+    "upgrade_prompt"
+  ],
+  "properties": {
+    "title": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "string"
+    },
+    "score": {
+      "type": "number"
+    },
+    "insights": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "actions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "upgrade_prompt": {
+      "type": "string"
+    }
+  }
+}

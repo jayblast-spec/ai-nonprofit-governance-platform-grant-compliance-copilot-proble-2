@@ -1,0 +1,43 @@
+{
+  "generated_by": "arknet-forge",
+  "forge_version": "0.3.0",
+  "output_contract": "stitch-design-bundle-saas.v1",
+  "deployment_required": true,
+  "product_archetype": "governance_platform",
+  "design_style": "professional_calendar",
+  "website_architecture": {
+    "category": "audit_first_governance_platform",
+    "layout": "Audit-first governance workspace: board-ready hero, obligation/decision intake, evidence ledger, owner/date matrix, policy impact, risk queue, board packet export, pricing, security",
+    "required_sections": [
+      "board-ready hero",
+      "decision or grant intake",
+      "evidence ledger",
+      "owner and due-date matrix",
+      "policy impact",
+      "risk queue",
+      "board packet export",
+      "security and privacy",
+      "pricing"
+    ],
+    "primary_cta": "Import a governance file",
+    "visual_rule": "Use sober institutional trust, document surfaces, audit trails, role permissions, and evidence-led UI. Do not use generic SaaS cards.",
+    "forbidden_language": [
+      "Use the guided demo",
+      "product experience",
+      "generic SaaS",
+      "Start the proof"
+    ]
+  },
+  "arknet_schema_version": "arknet-object.v1",
+  "source_object_id": "arknet_os_loop_blueprint_1782386413496",
+  "source_type": "idea",
+  "source_confidence": 0.8,
+  "repo_name": "ai-nonprofit-governance-platform-grant-compliance-copilot-proble",
+  "product_name": "AI Nonprofit Governance Platform",
+  "generated_at": "2026-06-25T11:20:15.998Z",
+  "tags": [
+    "product-specs",
+    "repository-blueprint",
+    "ai"
+  ]
+}
